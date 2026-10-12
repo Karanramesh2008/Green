@@ -1,0 +1,6 @@
+{
+  "name": "Fraud Risk Triage Baseline",
+  "description": "Explainable fraud-risk triage prototype scoring transaction indicators and transparent scam-message text features with human review recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
